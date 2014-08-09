@@ -3,10 +3,12 @@ description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 logo: false
 paginate: 15
 
+github: sps
+
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+# url:            'blog url'
+# author:         'nekova'
