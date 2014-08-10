@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: Shit Programmers Say
+description: What Is nekova Made Of?
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: redcarpet
@@ -8,9 +8,8 @@ logo: false
 paginate: 15
 
 github: sps
-source: sps
 baseurl: /sps
 
-# Details for the RSS feed generator
-# url:            'blog url'
-# author:         'nekova'
+#Details for the RSS feed generator
+url:            'blog url'
+author:         'nekova'
