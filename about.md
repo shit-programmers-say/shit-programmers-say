@@ -4,9 +4,9 @@ title: What is nekova made of?
 ---
 
 **Links**  
-[GitHub](https://twitter.com/nekova_)  
+[GitHub](https://github.com/nekova)  
 [Twitter](https://twitter.com/nekova_)  
-[Qiita](http://qiita.com/)  
+[Qiita](http://qiita.com/nekova)  
 [はてなブログ](http://nekova.hatenablog.com/)  
 
 **Events**  
