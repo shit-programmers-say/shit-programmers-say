@@ -9,6 +9,7 @@ paginate: 15
 
 github: shit-programmers-say.github.io
 permalink: /:title
+url: http://blog.nekova.net
 
 #Details for the RSS feed generator
 url:            'blog url'
