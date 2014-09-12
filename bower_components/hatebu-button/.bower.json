@@ -1,0 +1,30 @@
+{
+  "name": "hatebu-button",
+  "version": "0.0.2",
+  "description": "hatebu",
+  "license": "MIT",
+  "main": "dist/hatebu-button.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.3"
+  },
+  "homepage": "https://github.com/nekova/hatebu-button",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.2",
+    "commit": "6258bfa9a3bea9393219b601c1201bcd35ddb3d4"
+  },
+  "_source": "git://github.com/nekova/hatebu-button.git",
+  "_target": "~0.0.2",
+  "_originalSource": "hatebu-button",
+  "_direct": true
+}
