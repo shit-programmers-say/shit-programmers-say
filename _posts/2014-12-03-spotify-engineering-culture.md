@@ -13,8 +13,8 @@ Spotifyというスウェーデン生まれのWebサービスを支えるエン�
 
 SpotifyのCEO, Daniel Ekは「我々は誰より速く失敗することを目指す」と宣言しています.
 速やかに失敗することで, 速やかに学ぶことができ, 速やかに改善することができるというわけです.  
-彼らはこの環境のことを"Fail-friendly environment"と呼んでいます.
-動画内でも引用されていますが, Spotifyでは以下のような考え方をソフトウェア開発に取り入れているようです.
+彼らはこの環境を"Fail-friendly environment"と呼んでいます.
+動画でも引用されていますが, Spotifyでは以下のような考え方をソフトウェア開発に取り入れているようです.
 >If everything seems under control, you're not going fast enough. - Mario Andretti
 
 僕がもっとも興味をかきたてられたのは, Spotifyが分隊と呼ばれる6人程度の集団を開発チームの単位としていることです.
