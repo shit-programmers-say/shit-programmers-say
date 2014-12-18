@@ -46,23 +46,14 @@ Amazon-jp での価格を比べてみると
 というわけで本題です.  
 
 ### 北米版ソフトを買うための最高の方法
-[Last of Us Remastered Edition Playstation 4 Full Game Download ( Email Delivery)](
-http://boxeddeal.com/last-of-us-remastered-edition-playstation-4-dlc-code-email-delivery.html)  
-破格の$19.99です.恐ろしいです.  
-「日本よ, これが最高の買い方だ！！！！」と言いたいんですが, BoxedDealも北米PSNと同様に日本のクレジットカードは使えないようです.
-念のためサポートにメールしてみましたが, 業務時間外なので返答には時間がかかりそうです.
-
-どう見ても八方ふさがりなんですが, Redditにはもっとお得な情報を持ってる人がいました.
+Redditにお得な情報を持ってる人がいました.
 
 > Another site for $19.49 is gamedealdaily.
 
 というわけで[gamedealdailyとかいうサイト](http://gamedealdaily.com/)を訪れると, トップページにでかでかと  
 The Last of Us$19.49 と書かれてました.
-これに関する詳細なんてありません. ボタンは "Add to Card"しかない.
 「何も言わずに, カートに入れろ」と言わんばかりのUIだったので何も言わずに買いました.  
 ちょうどこの記事を書き終わるタイミングでThe Last of Us がダウンロードできたので, 輪をかけて最高です.
-
-ちなみに, ダウンロードにはPSNの北米版アカウントが必要なのでお忘れなく. それから, デジタルコードがPS3でも使えるのかどうかは不明です.
 
 ### 追記
 クリアした
