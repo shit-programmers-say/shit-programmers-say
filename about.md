@@ -7,7 +7,9 @@ title: What is nekova made of?
 [GitHub](https://github.com/nekova)  
 [Twitter](https://twitter.com/nekova_)  
 [Qiita](http://qiita.com/nekova)  
-[はてなブログ](http://nekova.hatenablog.com/)  
+[はてなブログ](http://nekova.hatenablog.com/archive)  
+[pplog](https://pplog.net/u/nekova_)  
+[Tumblr](http://scifi-book.tumblr.com/)
 
 **Events**  
 [個人開発を支える技術Night](http://www.zusaar.com/event/10467019)
